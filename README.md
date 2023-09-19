@@ -1,7 +1,9 @@
 # Craigslist Scraper
 An exercise in web-scraping. Allows users to enter coordinates and it will display the first 10 results for apartments on Craigslist.
 
-https://github.com/ehoward119/craigslist-scraper-copy/assets/13425876/e6670eb5-a307-4fe4-a31b-3d7191662262
+
+https://github.com/ehoward119/craigslist-scraper/assets/13425876/fff8e81d-49e1-480d-9ccb-3b7efc7afd78
+
 
 ## Usage
 
